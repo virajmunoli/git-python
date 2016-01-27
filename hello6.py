@@ -1,0 +1,2 @@
+phrase ={'Hello'}
+print phrase
